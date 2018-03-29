@@ -10,4 +10,4 @@ Tools :
 *	AWS CodeBuild
 *	Jenkins
 
-All website credit goes to the awesome [Bootstrap](http://getbootstrap.com/) project. Demo websites used for [Continous Deployment]
+All website credit goes to the awesome [Bootstrap](http://getbootstrap.com/) project..!
